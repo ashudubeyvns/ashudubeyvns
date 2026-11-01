@@ -58,7 +58,7 @@ I'm **Ashutosh Dubey**, a developer focused on building useful web applications 
 <img src="assets/title-commits.svg" width="100%" alt="05 Commit log — Consistency through code."/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashudubeyvns/ashudubeyvns/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashudubeyvns&bg_color=190b12&color=b6a3ac&line=c77b9b&point=e5b5c7&area=true&hide_border=true" width="100%" alt="Ashutosh's GitHub contribution activity graph"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashudubeyvns&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="420" alt="GitHub statistics for Ashutosh Dubey"/>
